@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I010
 ### Team Details
-#### **Team Name** <<Vishwamithra>> <br/>
+#### **Vishwamithra** <<Insert Your Team Name>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
